@@ -1,25 +1,11 @@
-# Saas - Tailwind One Page Template
-#### Preview
 
- - [Demo](https://themewagon.github.io/saas/)
+  # Roofing Repair Website Compliance
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/saas/)
+  This is a code bundle for Roofing Repair Website Compliance. The original project is available at https://www.figma.com/design/MvbiKJbl7BWkvaYKeKzpHa/Roofing-Repair-Website-Compliance.
 
-## Getting Started
+  ## Running the code
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/saas.git
-```
+  Run `npm i` to install the dependencies.
 
-## Author 
-```
-Design and code is completely written by Laurent Begey and development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; <a href="https://lbegey78.gumroad.com/" target="_blank">Laurent Begey</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+  Run `npm run dev` to start the development server.
+  
